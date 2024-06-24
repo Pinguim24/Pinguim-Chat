@@ -1,0 +1,22 @@
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\Penguins Chat.exe
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\Penguins Chat.deps.json
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\Penguins Chat.runtimeconfig.json
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\Penguins Chat.dll
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\Penguins Chat.pdb
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\bin\Debug\net6.0-windows\MySql.Data.xml
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.csproj.AssemblyReference.cache
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins_Chat.Form1.resources
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.csproj.GenerateResource.cache
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.AssemblyInfoInputs.cache
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.AssemblyInfo.cs
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.csproj.CoreCompileInputs.cache
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins.E66D70AD.Up2Date
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.dll
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\refint\Penguins Chat.dll
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.pdb
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins Chat.genruntimeconfig.cache
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\ref\Penguins Chat.dll
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins_Chat.Form2.resources
+C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\obj\Debug\net6.0-windows\Penguins_Chat.Form3.resources

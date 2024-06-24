@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\penguins chat\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|c:\\users\\pingu\\onedrive\\ambiente de trabalho\\chat penguin\\penguins chat\\penguins chat\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\penguins chat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\penguins chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|c:\\users\\pingu\\onedrive\\ambiente de trabalho\\chat penguin\\penguins chat\\penguins chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|c:\\users\\pingu\\onedrive\\ambiente de trabalho\\chat penguin\\penguins chat\\penguins chat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|c:\\users\\pingu\\onedrive\\ambiente de trabalho\\chat penguin\\penguins chat\\penguins chat\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB24AC91-F756-4DB6-B176-85FA8172B62A}|Penguins Chat\\Penguins Chat.csproj|solutionrelative:penguins chat\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form1.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form1.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Penguins Chat\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:35:38.056Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form1.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form1.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form1.cs",
+              "RelativeToolTip": "Penguins Chat\\Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAywEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:37:59.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form2.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form2.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form2.cs [Projeto]",
+              "RelativeToolTip": "Penguins Chat\\Form2.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:28:14.297Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form2.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form2.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form2.cs",
+              "RelativeToolTip": "Penguins Chat\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:31:53.069Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form3.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form3.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form3.cs [Projeto]",
+              "RelativeToolTip": "Penguins Chat\\Form3.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:55:14.912Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form3.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Form3.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Form3.cs",
+              "RelativeToolTip": "Penguins Chat\\Form3.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAwwCAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:59:04.248Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Class1.cs",
+              "RelativeDocumentMoniker": "Penguins Chat\\Class1.cs",
+              "ToolTip": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Class1.cs",
+              "RelativeToolTip": "Penguins Chat\\Class1.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:38:50.752Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
