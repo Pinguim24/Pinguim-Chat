@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Penguins Chat.csproj",
+      "projectUniqueName": "C:\\Users\\pingu\\OneDrive\\Documentos\\GitHub\\Pinguim-Chat\\Penguins Chat\\Penguins Chat\\Penguins Chat.csproj",
       "projectName": "Penguins Chat",
-      "projectPath": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\Penguins Chat.csproj",
+      "projectPath": "C:\\Users\\pingu\\OneDrive\\Documentos\\GitHub\\Pinguim-Chat\\Penguins Chat\\Penguins Chat\\Penguins Chat.csproj",
       "packagesPath": "C:\\Users\\pingu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pingu\\OneDrive\\Ambiente de Trabalho\\Chat Penguin\\Penguins Chat\\Penguins Chat\\obj\\",
+      "outputPath": "C:\\Users\\pingu\\OneDrive\\Documentos\\GitHub\\Pinguim-Chat\\Penguins Chat\\Penguins Chat\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pingu\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Penguins Chat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cfb35ebaf38b212f21a85c4eb26af7ff55177d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Penguins Chat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Penguins Chat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

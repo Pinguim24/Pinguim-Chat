@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Penguins_Chat
-build_property.ProjectDir = C:\Users\pingu\OneDrive\Ambiente de Trabalho\Chat Penguin\Penguins Chat\Penguins Chat\
+build_property.ProjectDir = C:\Users\pingu\OneDrive\Documentos\GitHub\Pinguim-Chat\Penguins Chat\Penguins Chat\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
